@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: c8884d5774be4904cafdc76283e1b781
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 494
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: bind_office_f_slacker_hips01
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_l_thigh01
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_r_thigh01
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_l_calf01
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_r_calf01
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_l_foot01
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_r_foot01
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_spine_a01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_spine_b01
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_neck01
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_head01
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_l_shoulder01
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_r_shoulder01
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_l_upperarm01
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_r_upperarm01
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_l_forearm01
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_r_forearm01
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: be_office_f_slacker_l_hand01
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: be_office_f_slacker_r_hand01
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_slacker_spine_c01
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: mesh_office_f_slacker01(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_office_f_slacker01
+      parentName: mesh_office_f_slacker01(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_hips01
+      parentName: mesh_office_f_slacker01(Clone)
+      position: {x: -0, y: 0.35852024, z: 0.011342024}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_l_thigh01
+      parentName: bind_office_f_slacker_hips01
+      position: {x: -0.040039357, y: -0.011600227, z: 0.0020188284}
+      rotation: {x: -0.000012963388, y: 0.024922349, z: 0.9996893, w: 0.00051998947}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_l_calf01
+      parentName: bind_office_f_slacker_l_thigh01
+      position: {x: -8.881783e-18, y: 0.15741143, z: 0}
+      rotation: {x: -0.066721216, y: 0.000011395037, z: -0.00017040526, w: 0.9977717}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_l_foot01
+      parentName: bind_office_f_slacker_l_calf01
+      position: {x: -0, y: 0.1673423, z: 2.2204458e-18}
+      rotation: {x: 0.4965976, y: -0.075108595, z: 0.043187544, w: 0.863646}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_slacker_l_toes01
+      parentName: bind_office_f_slacker_l_foot01
+      position: {x: 0.0075, y: 0.050138064, z: 0.008639251}
+      rotation: {x: 0.3102041, y: -0.15506889, z: 0.051363, w: 0.93653023}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_r_thigh01
+      parentName: bind_office_f_slacker_hips01
+      position: {x: 0.040039357, y: -0.011600227, z: 0.0009090304}
+      rotation: {x: 0.000014900703, y: 0.02865836, z: 0.99958915, w: -0.000519729}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_r_calf01
+      parentName: bind_office_f_slacker_r_thigh01
+      position: {x: 8.881783e-18, y: 0.15747456, z: 0}
+      rotation: {x: -0.070975855, y: -0.000012190137, z: 0.00017131734, w: 0.99747807}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_r_foot01
+      parentName: bind_office_f_slacker_r_calf01
+      position: {x: -0, y: 0.1673572, z: -2.2204458e-18}
+      rotation: {x: 0.49540833, y: 0.07569274, z: -0.043387964, w: 0.8642677}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_slacker_r_toes01
+      parentName: bind_office_f_slacker_r_foot01
+      position: {x: -0.0075, y: 0.04995789, z: 0.008720778}
+      rotation: {x: 0.31166136, y: 0.15229483, z: -0.05068066, w: 0.9365389}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_spine_a01
+      parentName: bind_office_f_slacker_hips01
+      position: {x: -0, y: 0.020974234, z: -0.0014332795}
+      rotation: {x: -0.03410796, y: 0, z: -0, w: 0.99941814}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_spine_b01
+      parentName: bind_office_f_slacker_spine_a01
+      position: {x: -0, y: 0.024527015, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_spine_c01
+      parentName: bind_office_f_slacker_spine_b01
+      position: {x: -0, y: 0.02803088, z: -4.4408916e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_l_shoulder01
+      parentName: bind_office_f_slacker_spine_c01
+      position: {x: -0.02151998, y: 0.029101953, z: -0.00014675788}
+      rotation: {x: 0.5253269, y: -0.4728964, z: 0.5289098, w: 0.46973935}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_l_upperarm01
+      parentName: bind_office_f_slacker_l_shoulder01
+      position: {x: -0, y: 0.04287924, z: -7.1054265e-17}
+      rotation: {x: -0.033088967, y: -0.094965145, z: 0.00021266937, w: 0.9949305}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_l_forearm01
+      parentName: bind_office_f_slacker_l_upperarm01
+      position: {x: -0, y: 0.13807493, z: 0}
+      rotation: {x: -0.018806502, y: 0.0026443973, z: -0.038192905, w: 0.9990899}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_slacker_l_hand01
+      parentName: bind_office_f_slacker_l_forearm01
+      position: {x: -2.2204458e-18, y: 0.13336186, z: -7.1054265e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_neck01
+      parentName: bind_office_f_slacker_spine_c01
+      position: {x: -0, y: 0.031534705, z: -3.4298442e-10}
+      rotation: {x: 0.034107976, y: -0, z: -0, w: 0.99941814}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_head01
+      parentName: bind_office_f_slacker_neck01
+      position: {x: -0, y: 0.020568503, z: 0.0015919058}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_slacker_head01
+      parentName: bind_office_f_slacker_head01
+      position: {x: -0, y: 0.10341133, z: 0.0080035515}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_r_shoulder01
+      parentName: bind_office_f_slacker_spine_c01
+      position: {x: 0.02151998, y: 0.029104605, z: -0.00018554661}
+      rotation: {x: -0.5248194, y: -0.47335964, z: 0.529355, w: -0.46933842}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_r_upperarm01
+      parentName: bind_office_f_slacker_r_shoulder01
+      position: {x: 4.4408916e-18, y: 0.04287924, z: 0}
+      rotation: {x: -0.032845564, y: 0.09490572, z: -0.0063138017, w: 0.99492425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_slacker_r_forearm01
+      parentName: bind_office_f_slacker_r_upperarm01
+      position: {x: -0, y: 0.13805626, z: 0}
+      rotation: {x: -0.018614493, y: -0.002576165, z: 0.03778872, w: 0.9991091}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_slacker_r_hand01
+      parentName: bind_office_f_slacker_r_forearm01
+      position: {x: 2.2204458e-18, y: 0.1333674, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 4d8055b6d6938c34c8737df771fae55c, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

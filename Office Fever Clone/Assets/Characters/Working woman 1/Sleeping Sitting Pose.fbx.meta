@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 9801423f63168504fa26be1b8169d1dd
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: bind_office_f_cleaning_hips01
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_l_thigh01
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_r_thigh01
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_l_calf01
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_r_calf01
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_l_foot01
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_r_foot01
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_spine_a01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_spine_b01
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_neck01
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_head01
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_l_shoulder01
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_r_shoulder01
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_l_upperarm01
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_r_upperarm01
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_l_forearm01
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_r_forearm01
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: be_office_f_cleaning_l_hand01
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: be_office_f_cleaning_r_hand01
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_f_cleaning_spine_c01
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: be_office_f_cleaning_l_toes01
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: be_office_f_cleaning_r_toes01
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: mesh_office_f_cleaning01(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_office_f_cleaning01
+      parentName: mesh_office_f_cleaning01(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_hips01
+      parentName: mesh_office_f_cleaning01(Clone)
+      position: {x: -0, y: 0.003717424, z: 0.00011357678}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_l_thigh01
+      parentName: bind_office_f_cleaning_hips01
+      position: {x: -0.00040069112, y: -0.00009692649, z: -0.000011148441}
+      rotation: {x: -0.000008425618, y: 0.031678442, z: 0.9994981, w: 0.00026583977}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_l_calf01
+      parentName: bind_office_f_cleaning_l_thigh01
+      position: {x: 8.8817833e-20, y: 0.001712663, z: 0}
+      rotation: {x: -0.07220952, y: 0.000017361217, z: -0.00023980073, w: 0.9973895}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_l_foot01
+      parentName: bind_office_f_cleaning_l_calf01
+      position: {x: -0, y: 0.0016970745, z: -2.2204458e-20}
+      rotation: {x: 0.50074756, y: 0.08276159, z: -0.048173465, w: 0.86028004}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_cleaning_l_toes01
+      parentName: bind_office_f_cleaning_l_foot01
+      position: {x: -0.00009999999, y: 0.00049219705, z: 0.00008528076}
+      rotation: {x: 0.30464622, y: 0.14338711, z: -0.046447627, w: 0.9404645}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_r_thigh01
+      parentName: bind_office_f_cleaning_hips01
+      position: {x: 0.00040069112, y: -0.00009692649, z: -0.000014174634}
+      rotation: {x: 0.000008910804, y: 0.03351066, z: 0.99943835, w: -0.0002657602}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_r_calf01
+      parentName: bind_office_f_cleaning_r_thigh01
+      position: {x: -0, y: 0.0017130731, z: -4.4408917e-20}
+      rotation: {x: -0.07012737, y: -0.000016865362, z: 0.00023990405, w: 0.99753803}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_r_foot01
+      parentName: bind_office_f_cleaning_r_calf01
+      position: {x: -8.8817833e-20, y: 0.0016960449, z: -2.2204458e-20}
+      rotation: {x: 0.48485738, y: -0.08899066, z: 0.049673088, w: 0.86863494}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_cleaning_r_toes01
+      parentName: bind_office_f_cleaning_r_foot01
+      position: {x: 0.00009999999, y: 0.00047485478, z: 0.000088547604}
+      rotation: {x: 0.3169429, y: -0.12941766, z: 0.043703288, w: 0.93855655}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_spine_a01
+      parentName: bind_office_f_cleaning_hips01
+      position: {x: -0, y: 0.0001738533, z: -0.00001611098}
+      rotation: {x: -0.046186566, y: 0, z: -0, w: 0.99893284}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_spine_b01
+      parentName: bind_office_f_cleaning_spine_a01
+      position: {x: -0, y: 0.00020369804, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_spine_c01
+      parentName: bind_office_f_cleaning_spine_b01
+      position: {x: -0, y: 0.00023279747, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_l_shoulder01
+      parentName: bind_office_f_cleaning_spine_c01
+      position: {x: -0.00023947906, y: 0.00023709456, z: -0.0000023833131}
+      rotation: {x: 0.52142864, y: -0.47691303, z: 0.5266264, w: 0.4725788}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_l_upperarm01
+      parentName: bind_office_f_cleaning_l_shoulder01
+      position: {x: -0, y: 0.00047865565, z: 0}
+      rotation: {x: -0.027052999, y: -0.10582802, z: 0.0017142296, w: 0.994015}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_l_forearm01
+      parentName: bind_office_f_cleaning_l_upperarm01
+      position: {x: -0, y: 0.0012555907, z: 0}
+      rotation: {x: -0.021017175, y: 0.0032485642, z: -0.03838133, w: 0.9990368}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_cleaning_l_hand01
+      parentName: bind_office_f_cleaning_l_forearm01
+      position: {x: -2.2204458e-20, y: 0.0014588898, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_neck01
+      parentName: bind_office_f_cleaning_spine_c01
+      position: {x: -0, y: 0.00026189696, z: -4.8551354e-13}
+      rotation: {x: 0.046186663, y: -0, z: -0, w: 0.99893284}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_head01
+      parentName: bind_office_f_cleaning_neck01
+      position: {x: -0, y: 0.0002386261, z: -0.000041405296}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_cleaning_head01
+      parentName: bind_office_f_cleaning_head01
+      position: {x: -0, y: 0.0013954839, z: -0.0002421379}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_r_shoulder01
+      parentName: bind_office_f_cleaning_spine_c01
+      position: {x: 0.00023947906, y: 0.00023707896, z: -0.0000022150045}
+      rotation: {x: -0.5216292, y: -0.47672796, z: 0.5264587, w: -0.47273108}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_r_upperarm01
+      parentName: bind_office_f_cleaning_r_shoulder01
+      position: {x: -0, y: 0.00047865565, z: 0}
+      rotation: {x: -0.027009219, y: 0.10850346, z: -0.0038446188, w: 0.99372166}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_f_cleaning_r_forearm01
+      parentName: bind_office_f_cleaning_r_upperarm01
+      position: {x: -0, y: 0.0012557937, z: 0}
+      rotation: {x: -0.021226933, y: -0.0033698077, z: 0.03816685, w: 0.9990402}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_f_cleaning_r_hand01
+      parentName: bind_office_f_cleaning_r_forearm01
+      position: {x: -0, y: 0.0014591458, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 4cd1d8a3fc2464b43b0399f07fdad9f0, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
